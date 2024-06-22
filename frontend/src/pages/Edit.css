@@ -1,0 +1,16 @@
+/* Add this CSS in your main CSS file */
+.ql-editor a {
+    color: blue;
+    text-decoration: underline;
+  }
+
+  
+  .ql-tooltip {
+    margin-left: 100px;
+    z-index: 10; /* Ensure the tooltip appears above other elements */
+  }
+  
+  .ql-tooltip.ql-editing a {
+    left: 28px;
+    text-decoration: none;
+  }

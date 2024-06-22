@@ -1,0 +1,3 @@
+.gradient-text{
+  @apply bg-gradient-to-r from-blue-500 via-blue-700 to-blue-900 bg-clip-text text-transparent;
+}
